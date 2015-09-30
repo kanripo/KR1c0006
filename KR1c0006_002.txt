@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陸氏詩疏廣要
-#+DATE: 2015-09-23 09:36:27
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:04:19.711022
+#+PROPERTY: ID KR1c0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上之下
 <pb:KR1c0006_WYG_002-1a>¶
 欽定四庫全書¶
 　陸氏詩疏廣要卷上之下　　吳　陸璣　撰¶
@@ -902,6 +904,7 @@
 　¶
 　¶
 　陸氏詩疏廣要卷上之下¶
+#+PROPERTY: JUAN 卷下之上
 <pb:KR1c0006_WYG_002-51a>¶
 欽定四庫全書¶
 　陸氏詩疏廣要卷下之上　吳　陸璣　撰¶
@@ -1928,6 +1931,7 @@
 　¶
 　¶
 　陸氏詩疏廣要卷下之上¶
+#+PROPERTY: JUAN 卷下之下
 <pb:KR1c0006_WYG_002-108a>¶
 欽定四庫全書¶
 　陸氏詩疏廣要卷下之下　吳　陸璣　撰¶
@@ -3566,4 +3570,3 @@
 　¶
 　¶
 　陸氏詩疏廣要巻下之下¶
-
